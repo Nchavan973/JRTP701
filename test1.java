@@ -7,4 +7,8 @@ public class HelloWorld {
 
        System.out.println("Add method");
     }
+     public void m2(){
+      
+     System.out.println("Sub Method");
+   }
 }
