@@ -1,13 +1,9 @@
 package com.niltechservice;
 
-public class App 
+public class Customer 
 {
-	public int sum(int a,int b) {
-		return a+b;
-	}
     public static void main( String[] args )
     {
-    	App app=new App();
-    	System.out.println("Sum is::"+app.sum(100, 20));
+       System.out.println("Hello Nilesh");
     }
 }
