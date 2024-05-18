@@ -11,4 +11,16 @@ public class HelloWorld {
       
      System.out.println("Sub Method");
    }
+
+       public void m3(){
+      
+     System.out.println("Method 3 completed");
+   }
+
+       public void m4(){
+      
+     System.out.println("method 4 completed");
+   }
+
+
 }
