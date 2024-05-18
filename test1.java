@@ -20,6 +20,12 @@ public class HelloWorld {
        public void m4(){
       
      System.out.println("method 4 completed");
+        int a=10;
+        int b=120;
+        int c=a+b;
+        System.out.println("Addition is:"+c);
+
+    
    }
 
 
