@@ -29,5 +29,11 @@ public class HelloWorld {
     
    }
 
+      public void m7(){
+
+     System.out.println("m7 method completed successfully");
+
+}
+
 
 }
