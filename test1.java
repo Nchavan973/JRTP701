@@ -36,4 +36,10 @@ public class HelloWorld {
 }
 
 
+   public void m5(){
+
+   System.out.println("M5 method is completed");
+}
+
+
 }
