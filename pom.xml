@@ -5,7 +5,7 @@
     <groupId>niltech</groupId>
     <artifactId>MavenProj01</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>MavenProj01</name>
     <description>My Projects</description>
