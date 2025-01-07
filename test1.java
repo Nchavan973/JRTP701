@@ -23,6 +23,7 @@ public class HelloWorld {
         int a=10;
         int b=120;
 		log.info("********************************************");
+		int d=11;
         int c=a+b;
         System.out.println("Addition is:"+c);
         System.out.println("m5() method is consluded finally");
